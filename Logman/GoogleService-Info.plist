@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>788944505196-5i5ie1fmvt2alcapgavq5665u9c2rmq3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.788944505196-5i5ie1fmvt2alcapgavq5665u9c2rmq3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWpyn7F0XrfLTKH4xtECZj-6Zlpyofw9o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>788944505196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>H4D.Logman</string>
+	<key>PROJECT_ID</key>
+	<string>h4d-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>h4d-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:788944505196:ios:1a14b8f69a49b9dbc90b49</string>
+	<key>DATABASE_URL</key>
+	<string>https://h4d-app.firebaseio.com</string>
+</dict>
+</plist>
